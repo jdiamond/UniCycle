@@ -1,5 +1,3 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=1384
-
 This script cycles through certain Unicode characters while typing. It only
 works if set encoding=utf-8.
 
